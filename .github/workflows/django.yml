@@ -1,8 +1,7 @@
 name: Python application
 
 on: [push]
-  
-
+  egc_test
 jobs:
   build:
 
